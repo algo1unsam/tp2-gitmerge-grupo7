@@ -1,7 +1,7 @@
-object algoritmo {
+object cordoba {
   
-  method color() { 
-    return "Azul cobalto claro"
+  method rojo() { 
+    return "rojo cobalto claro"
     }
 }
 
