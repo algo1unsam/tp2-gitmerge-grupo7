@@ -1,10 +1,14 @@
 object cordoba {
   
-  method rojo() { 
-    return "rojo cobalto claro"
+  method violeta() { 
+    return "VIOLETAAAA"
     }
 }
 
 object buenosAires {}
+
+object Chubut{
+
+}
 
 
