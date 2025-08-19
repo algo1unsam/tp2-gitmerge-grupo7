@@ -1,10 +1,10 @@
-object cordoba {
+object Provincia {
   
-  method rojo() { 
-    return "rojo cobalto claro"
+  method color() { 
+    return "Verde esmeralda"
     }
 }
 
-object buenosAires {}
+object Neuquen {}
 
 
