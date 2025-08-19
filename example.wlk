@@ -1,6 +1,6 @@
-object cordoba {
+object Tierra del Fuego {
   
-  method rojo() { 
+  method amarillo() { 
     return "rojo cobalto claro"
     }
 }
