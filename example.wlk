@@ -1,10 +1,10 @@
-object algoritmo {
+object Provincia {
   
   method color() { 
-    return "Azul cobalto claro"
+    return "Verde esmeralda"
     }
 }
 
-object buenosAires {}
+object Neuquen {}
 
 
