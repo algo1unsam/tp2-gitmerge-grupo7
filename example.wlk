@@ -1,10 +1,20 @@
-object algoritmo {
+object cordoba {
   
-  method color() { 
-    return "Azul cobalto claro"
+  method rojo() { 
+    return "rojo cobalto claro"
     }
 }
 
-object buenosAires {}
+object Neuquen {}
+
+object Chubut{
+
+object Tierra del Fuego {
+  
+  method amarillo() { 
+    return "rojo cobalto claro"
+  }
+
+}
 
 
