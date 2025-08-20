@@ -1,18 +1,19 @@
-object Provincia {
+object cordoba {
   
-<<<<<<< HEAD
-  method violeta() { 
-    return "VIOLETAAAA"
-=======
-  method color() { 
-    return "Verde esmeralda"
->>>>>>> fdd2d5dd6041b6c32b7c032137d060b2a9bf0f63
+  method rojo() { 
+    return "rojo cobalto claro"
     }
 }
 
 object Neuquen {}
 
 object Chubut{
+
+object Tierra del Fuego {
+  
+  method amarillo() { 
+    return "rojo cobalto claro"
+  }
 
 }
 
