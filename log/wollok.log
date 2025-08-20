@@ -22,4 +22,8 @@
 {"level":"info","message":"⌛ Building environment","timeElapsed":110,"timestamp":"2025-08-19T23:23:50.285Z"}
 {"level":"info","message":"⌛ Validating example.wlk","timeElapsed":105,"timestamp":"2025-08-19T23:23:50.457Z"}
 >>>>>>> fdd2d5dd6041b6c32b7c032137d060b2a9bf0f63
+<<<<<<< HEAD
 >>>>>>> 0c2070702a4772835ffbe9e0da0c5f8952228530
+=======
+{"error":["Error: Failed to parse example.wlk: ","-- PARSING FAILED --------------------------------------------------","   9 | >>>>>>> fdd2d5dd6041b6c32b7c032137d060b2a9bf0f63","  10 |  }","> 11 | }","  | ^","  12 | ","  13 | object Neuquen {}","Expected one of the following: ","' ', '@', 'class', 'const', 'describe', 'mixin', 'object', 'only', 'package', 'program', 'test', 'var', '{', EOF, comment, not \"}\r","\", whitespace","  at C:\\Users\\PC BIAN\\AppData\\Roaming\\npm\\node_modules\\wollok-ts-cli\\src\\index.ts:24:13","  at Array.map (<anonymous>)","  at buildEnvironment (C:\\Users\\PC BIAN\\AppData\\Roaming\\npm\\node_modules\\wollok-ts-cli\\src\\index.ts:20:21)","  at buildEnvironmentForProject (C:\\Users\\PC BIAN\\AppData\\Roaming\\npm\\node_modules\\wollok-ts-cli\\src\\utils.ts:117:32)","  at async buildEnvironmentCommand (C:\\Users\\PC BIAN\\AppData\\Roaming\\npm\\node_modules\\wollok-ts-cli\\src\\utils.ts:140:23)","  at async initializeInterpreter (C:\\Users\\PC BIAN\\AppData\\Roaming\\npm\\node_modules\\wollok-ts-cli\\src\\commands\\repl.ts:122:19)","  at async replFn (C:\\Users\\PC BIAN\\AppData\\Roaming\\npm\\node_modules\\wollok-ts-cli\\src\\commands\\repl.ts:44:21"],"level":"info","message":"🖥️ REPL execution - build failed for c:\\Algoritmos1\\tp2-gitmerge-grupo7","ok":false,"timeElapsed":141,"timestamp":"2025-08-19T23:51:39.503Z"}
+>>>>>>> aeb0299d290fa4d0c8d828f26453222ee6b6f5a1
